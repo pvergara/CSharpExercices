@@ -1,4 +1,4 @@
-namespace CSharpExercices
+namespace CSharpExersices
 {
     internal static class Program
     {
